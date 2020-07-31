@@ -7,13 +7,13 @@ const messages = [
     "70 new employees are shifted",
     "Time to take a Break, TADA!!!",
     "Cooking Done\nFood is on the Table\n Time to eat",
-    "Feeling bored? Listen to <a terget='_blank' href='https://www.youtube.com/watch?v=7wtfhZwyrcc'>this</a>",
+    "Feeling bored? Listen to <a href='https://www.youtube.com/watch?v=7wtfhZwyrcc' target = '_blank' rel='tag noopener noreferrer'>this</a>",
     "Drink Water, it makes you dry otherwise!",
     "Got a Blog Idea?\nWrite it up!",
     "You haven't cleaned the bathroom yet, get on it.",
     "Music time.",
     "Time to pick your daughter from School\nIf you start now, you are going to reach in 30 minutes.",
-    "It's your wife's birthday today, got any gift? No? <a target='_blank' href='http://amazon.com/'>Order here</a>.",
+    "It's your wife's birthday today, got any gift? No? <a href='http://amazon.com/' target = '_blank' rel='tag noopener noreferrer'>Order here</a>.",
 ];
 
 const getRandom = () => {
