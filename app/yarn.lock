@@ -9039,10 +9039,10 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-notification-timeline@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/react-notification-timeline/-/react-notification-timeline-0.0.2.tgz#86ed90cebe89c81e5ea92e34d0f38055a12950c7"
-  integrity sha512-mhh8wTWfrGub54C0f42fsACe+muYhlFX8VnNKHME6113uJJ8E4uptvv/mgFC1szHmvDW7VVrJblkAcStkm1SnQ==
+react-notification-timeline@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/react-notification-timeline/-/react-notification-timeline-0.0.9.tgz#3149e90f7a260c7b8efc1be7c4f9f9e0b49cae3e"
+  integrity sha512-ODepon+A9KnjB64vGfo7C8uj0YLoF0dm+Db/YOP2pOGgIdbcBgftFVRpuszKv3zSIgEmLvSoDOkk3p1FOKKP5Q==
   dependencies:
     bootstrap "^4.5.0"
     moment "^2.24.0"
